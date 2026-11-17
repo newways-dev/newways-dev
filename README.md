@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6fb5,100:9d7cff&height=190&section=header&text=Kate%20Lagutin&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20developer%20%C2%B7%20Hamburg&descSize=18&descAlignY=60" alt="Kate Lagutin, software developer in Hamburg" width="100%" />
 
 <a href="https://github.com/newways-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=FF6FB5&center=true&vCenter=true&width=700&lines=Backend%3A+Java%2C+Spring+Boot%2C+PostgreSQL;Frontend%3A+Angular%2C+React%2C+Next.js;Moved+countries%2C+switched+stacks%2C+still+not+tired+of+debugging." alt="Backend: Java, Spring Boot, PostgreSQL. Frontend: Angular, React, Next.js." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=1200&color=FF6FB5&center=true&vCenter=true&width=700&lines=Backend%3A+Java%2C+Spring+Boot%2C+PostgreSQL;Frontend%3A+Angular%2C+React%2C+Next.js;" alt="Backend: Java, Spring Boot, PostgreSQL. Frontend: Angular, React, Next.js." />
 </a>
 
 <br />
