@@ -83,9 +83,9 @@ Also: Liquibase · Drizzle · Vitest
       <sub><b>Head First<br />Software Architecture</b><br />Gandhi, Richards, Ford</sub>
     </td>
     <td align="center" width="170">
-      <a href="https://openlibrary.org/isbn/9781736049112"><img src="https://covers.openlibrary.org/b/isbn/9781736049112-M.jpg" width="120" alt="System Design Interview" /></a>
+      <a href="https://openlibrary.org/isbn/9798664653403"><img src="https://covers.openlibrary.org/b/isbn/9798664653403-M.jpg" width="120" alt="System Design Interview, Volume 1" /></a>
       <br />
-      <sub><b>System Design<br />Interview</b><br />Alex Xu, Sahn Lam</sub>
+      <sub><b>System Design<br />Interview (Vol. 1)</b><br />Alex Xu</sub>
     </td>
   </tr>
 </table>
